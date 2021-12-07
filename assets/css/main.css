@@ -1,0 +1,52 @@
+/* =============== GLOBAL =============== */
+.btn-success {
+  background: #42b72a;
+  border-color: #42b72a;
+}
+
+.btn-success:hover {
+  background: #36a420;
+  border-color: #36a420;
+}
+
+/* MAIN CONTENT */
+.main-content {
+  min-height: 640px;
+  background: #f0f2f5;
+}
+
+.login-page {
+  padding-bottom: 12px;
+  height: 496px;
+}
+
+/* =============== FORMS =============== */
+.card {
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1), 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+.login-page-text {
+  padding-top: 52px;
+}
+
+.login-page-text img {
+  width: 220px;
+}
+
+.login-page-text p {
+  max-width: 500px;
+  margin-top: 16px;
+  font-size: 26px;
+  line-height: 28px;
+}
+
+.footer a {
+  color: #8a8d91 !important;
+  text-decoration: none;
+  margin-right: 4px;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
